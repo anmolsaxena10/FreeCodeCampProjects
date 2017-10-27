@@ -1,0 +1,23 @@
+@media (min-width: 768px) {
+  .navbar-nav.navbar-center {
+    position: absolute;
+    left: 50%;
+    transform: translatex(-50%);
+  }
+}
+
+section{
+	padding-top: 3rem;
+	padding-bottom: 3rem;
+}
+
+#intro{
+	text-align: justify;
+	width: 80%;
+	margin: 0 auto;
+}
+
+#project-list,#education-list,#skill-list,#social-list{
+	width: 80%;
+	margin: 0 auto;
+}
